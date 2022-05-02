@@ -10,7 +10,7 @@ Olá dev's! Neste repositório vamos criar um **sistema de avaliação física**
 6. Testes Aeróbicos
 
 ## Video
-Veja o vídeo explicando o sistema clicando no link ao lado - [Sistema Avaliação Física](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+Veja o vídeo explicando o sistema clicando no link ao lado - [Sistema Avaliação Física](https://youtu.be/LIdI6gNMPcY)
 
 Vamos começar?! 
 
